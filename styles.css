@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 #table-1 {
 	border-collapse: collapse;
-	cell-padding:1px;
+	padding:1px;
 	border: 1px solid black;
 	spacing: 1px;
 }
@@ -16,7 +16,7 @@
 }
 #table-2 {
 	border-collapse: collapse;
-	cell-padding:1px;
+	padding:1px;
 	border: 1px solid black;
 	spacing: 1px;
 	margin: 20px;
@@ -24,7 +24,7 @@
 #table-3 {
 	border-collapse: collapse;
 	margin: 20px;
-	cell-padding:1px;
+	padding:1px;
 	border: 1px solid black;
 	spacing: 1px;
 }
