@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+#table-1 {
+	border-collapse: collapse;
+	cell-padding:1px;
+	border: 1px solid black;
+	spacing: 1px;
+}
+#t11 {
+	text-align :left;
+}
+#t12 {
+	text-align :center;
+}
+#t13 {
+	text-align :right;
+}
+#table-2 {
+	border-collapse: collapse;
+	cell-padding:1px;
+	border: 1px solid black;
+	spacing: 1px;
+	margin: 20px;
+}
+#table-3 {
+	border-collapse: collapse;
+	margin: 20px;
+	cell-padding:1px;
+	border: 1px solid black;
+	spacing: 1px;
+}
+#cell1 {
+	background-color:green;
+}
+#cell2 {
+	background-color:blue;
+}
+#t-image {
+	text-align :center;
+}
